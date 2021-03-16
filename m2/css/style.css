@@ -1,3 +1,7 @@
+body {
+  text-decoration: none;
+}
+
 .navbar {
   min-height: 100px;
   font-size: 1em;
